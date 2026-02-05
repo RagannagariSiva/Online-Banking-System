@@ -3,8 +3,7 @@
 The **Online Banking System** is a Java-based console application that simulates essential banking operations. It allows users to securely register, log in, manage their accounts, and perform transactions through a simple text-based interface.
 <br><hr>
 <img width="599" height="436" alt="Online Banking System" src="https://github.com/user-attachments/assets/ea97f07b-a790-4aae-900d-438508fe9d5a" />
-
-
+<hr>
 ### Key Features
 - **User Registration & Login**: Secure access control for customers.
 - **Account Management**: View balance, update details, and manage funds.
